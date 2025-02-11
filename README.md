@@ -10,4 +10,16 @@ En este repositorio se almacenará el portafolio de actividades de programación
     - [Programa 1](./Semana%202/problema100.py)
     - [Programa 2](./Semana%202/PythonInPython.py)
     - [Programa 3](./Semana%202/doom.py)
-    
+
+
+|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+|[Problema 1](./100Problemas/Problema1.py)|[Problema 2](./100Problemas/Problema2.py)|[Problema 3](./100Problemas/Problema3.py)|[Problema 4](./100Problemas/Problema4.py)|  
+|               |               |               |               |               |               |               |               |               |               |
+|               |               |               |               |               |               |               |               |               |               |
+|               |               |               |               |               |               |               |               |               |               |
+|               |               |               |               |               |               |               |               |               |               |
+|               |               |               |               |               |               |               |               |               |               |
+|               |               |               |               |               |               |               |               |               |               |
+|               |               |               |               |               |               |               |               |               |               |
+|               |               |               |               |               |               |               |               |               |               |
+|               |               |               |               |               |               |               |               |               |               |
