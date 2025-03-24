@@ -1,5 +1,4 @@
 
-
 class Hola():
     def __init__(self,Nombre):
         self.Name = Nombre
@@ -7,10 +6,6 @@ class Hola():
     def getName(self):
         return self.Name
 
-variahola = Hola("Luis")
-variable2 = Hola("Mario")
-print(variahola.getName())
-print(variable2.getName())
 
 
 from abc import ABC, abstractmethod #Abstract Base Class
@@ -46,8 +41,28 @@ class Triangulo(Politopo2):
         return (self.base * 3)
         
 
-tri = Triangulo(1,1,"Triangulo")
+class Cuadrado(Politopo2):
+    def __init__(self,l = 1, name='Cuadrado'):
+        self.lado = l
+        super().__init__(name)
+    
+    def area(self):
+        return self.lado**2
+    
+    def perimetro(self):
+        return self.lado * 4
 
-print(tri.area())
 
-print(tri.perimetro())
+
+
+if __name__ == '__main__':
+    variahola = Hola("Luis")
+    variable2 = Hola("Mario")
+    print(variahola.getName())
+    print(variable2.getName())
+    tri = Triangulo(1,1,"Triangulo")
+    print(tri.area())
+    print(tri.perimetro())
+
+import principal
+
